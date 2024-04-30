@@ -10,5 +10,10 @@ public class TestMain {
 		System.out.println("Test2");
 
 	}
+	@Test
+	private void test1() {
+		System.out.println("Test");
+
+	}
 
 }
