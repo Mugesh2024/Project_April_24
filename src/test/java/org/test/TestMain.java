@@ -6,7 +6,8 @@ public class TestMain {
 	
 	@Test
 	private void test() {
-		System.out.println("Test");
+		System.out.println("Test1");
+		System.out.println("Test2");
 
 	}
 
